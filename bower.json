@@ -1,0 +1,21 @@
+{
+  "name": "angularnotes",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "Andrey Skrypai"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.5.8",
+    "bootstrap-sass": "^3.3.7"
+  }
+}
